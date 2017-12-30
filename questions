@@ -1,0 +1,32 @@
+1. What is the total number of home and away goals for each team during the season ?
+
+2. What is the average goals per game for each team ?
+
+3. Create cummulate points table on a monthly basis for each team
+
+4. Who are the come back kings ? Rank teams by number of times losing in first half and 
+   ended up winning the match ?
+
+5. Count the number of home and away wins for each team
+
+6. Count the number of home and away losses for each team
+
+7. Create an additional column for season - winter, autom, summer, spring by months.
+   e.g. winter could be December to February, Autom - September to November, Summer June to August,
+   Spring March to May.
+
+8. Count the total number of goals per season - Autum, Winter, Spring.
+
+9. How many matches were officiated by each referee during the football season
+
+10. Did any referee officiate a teams game more than once during the season ?
+
+11. How many matches was played by each team
+
+12. For each team, count the number of matches officiated by a particular referee.
+
+13. Which has a stronger correlation - number of goals scored an finishing postion or number of 
+    goals conceeded and finishing condition.
+
+14. 
+
